@@ -1,24 +1,7 @@
-.balls {
-  /* width: 400px; */
-  border-radius: 50%;
+i {
+  color: #00ff00
 }
 
-.beach-image {
-  width: 300px;
-  height: 300px;
-  object-fit: cover;
-  object-position: center;
-  /* background-size: contain or cover; */
-}
-
-.background {
-  background-image: url('https://picsum.photos/id/1070/800/640');
-  background-position: center;
-  background-size: cover;
-  width: 300px;
-  height: 300px;
-}
-
-.car {
-  border: 10px solid #000;
+.bi-icon {
+  font-size: 24px
 }

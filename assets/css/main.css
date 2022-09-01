@@ -1,5 +1,5 @@
 @import 'https://necolas.github.io/normalize.css/8.0.1/normalize.css';
-
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
 @import './global.css';
 @import './layout.css';
 @import './components.css';
